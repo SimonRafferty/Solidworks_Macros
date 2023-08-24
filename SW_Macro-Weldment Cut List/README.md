@@ -1,6 +1,7 @@
 This is probably my favorite Macro!
 
 Boss: "How much steel do I need to order? I need to know in the next 5 mins!"
+
 Me, 10 seconds later "you'll need 147 7.5m lengths of 100x100x6........"
 
 That was where this macro started - the lead times on bulk steel were long at the time and my boss wanted to pre-order all the steel a few hours into the project.  I had a basic layout for the weldment - but it was difficult to give an estimate to the accuracy required.  He'd be mad if I was under or over - and forget that he'd not given me time to design it, never mind calculate the amount of steel.
