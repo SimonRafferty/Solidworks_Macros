@@ -6,3 +6,5 @@ The solution is usually to add a small circle around each corner, relieving it -
 
 I've set up a keyboard shortcut so I click on a vertex, press the 'm' key and a dimensioned 2mm circle is drawn around that point.  It's MUCH quicker than drawing them all manually.
 On thick material, you might want to increase the diameter of the mouse-ear a little - but I've found 2mm works OK from 2mm to 16mm plate.  Even though 2mm is too small a feature to cut accurately in 16mm plate, it's enough to relieve the corner.
+
+You'll need to add the keyboard shortcut yourself - I've not figured out a way to automate this!
